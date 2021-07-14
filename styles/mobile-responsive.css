@@ -2,12 +2,17 @@
     header{
         display: none;
     }
-    .top-banner-container>.left-side>h1{
-        font-size: 40px;
+    .left-side>h1 {
+        width: 95%;
+        color: white;
+        margin: 15px;
+    }
+    .left-side .fancy-button{
+        margin:15px;
     }
     .top-banner-container {
         height: 159vh;
-        width: 572px;
+        width: 360px;
         background-color: #2D25A0;
         flex-direction: column;
     }
