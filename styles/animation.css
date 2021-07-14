@@ -1,6 +1,6 @@
 .top-jump-animation{
     position: relative;
-    transition: bottom 1s ;
+    transition: bottom 1s;
     bottom: 0;
 }
 .top-jump-animation:hover{
