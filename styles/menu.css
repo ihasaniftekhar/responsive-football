@@ -1,0 +1,32 @@
+header{
+    position: absolute;
+    display: flex;
+    /* justify-content: space-between; */
+    align-items: center;
+}
+menu{
+    margin: 42px 156px;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+}
+menu a{
+    text-decoration: none;
+    color: white;
+    margin-right: 36px;
+    font-size: 16px;
+}
+header>a{
+    margin: 42px 156px;
+    font-weight: 500;
+    font-size:15px;
+    text-decoration: none;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 5px 15px;
+    width: 168px;
+    height: 44px;
+    background-color: #E02C6D;
+}

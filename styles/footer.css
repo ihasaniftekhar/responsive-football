@@ -1,0 +1,17 @@
+/* Footer Design */
+footer{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    margin-top: 156px;
+    margin-bottom: 63px;
+}
+footer > img{
+    width: 483.87px;
+    height: 110px;
+}
+.social-icons img{
+    height: 32px;
+    width: 32px;
+}

@@ -1,0 +1,12 @@
+.highlights-container{
+    display: flex;
+    align-items: center ;
+    justify-content: center;
+}
+.highlights-container img{
+    width: 567px;
+    height: 427px;
+}
+.highlights-container>.left-side{
+    width: 469px;
+}

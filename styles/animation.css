@@ -1,0 +1,16 @@
+.top-jump-animation{
+    position: relative;
+    transition: bottom 1s ;
+    bottom: 0;
+}
+.top-jump-animation:hover{
+    bottom:10px;
+}
+.left-jump-animation{
+    position:relative;
+    transition: left 1s ease;
+    left: 0;
+}
+.left-jump-animation:hover{
+    left:15px;
+}

@@ -1,0 +1,47 @@
+/* Newsletter Section Style */
+hr{
+    width: 30%;
+    height: 2px;
+    background-color: black;
+}
+.newsletter-box-main{
+    width: 85%;
+    text-align: center;
+    box-shadow: 10px 10px 50px rgba(0, 0, 0, 0.253);
+    margin: 90px auto;
+    padding: 10px 50px;
+    border-radius: 2em;
+}
+.newsletter-box p{
+    font-size: 15px;
+    font-weight:lighter;
+}
+.newsletter-box{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding:50px
+}
+
+.newsletter-box input{
+    padding: 10px 20px;
+    margin-bottom: 50px;
+    font-size: 1em;
+    width: 50%;
+    border-style: solid;
+}
+.newsletter-box .submit button{
+    font-weight: 500;
+    font-size:16px;
+    line-height:24px;
+    text-decoration: none;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px 24px;
+    width: 168px;
+    height: 44px;
+    background-color: #E02C6D;
+}
