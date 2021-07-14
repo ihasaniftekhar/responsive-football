@@ -20,4 +20,35 @@
         grid-row-gap: 27px;
         padding:20px !important;
     }
+
+    /* Highlights Section For Mobile */
+
+    .highlights-container{
+        display: flex;
+        flex-direction: column;
+        align-items: center ;
+        justify-content: center;
+    }
+    .highlights-container img{
+        width: 80%;
+        height: 80%;
+        margin: 40px;
+    }
+    .highlights-container>.left-side{
+        width: 294px;
+    }
+
+    /* Nesletter */
+    .newsletter-box input {
+        width: 100%;
+    }
+    .newsletter-box-main {
+        width: 72%;
+        margin: auto;
+    }
+
+    /* Footer */
+    footer > img {
+        width: 90%;
+
 }
